@@ -11,3 +11,5 @@ If you have any problems, please reach out to support on the LearnCS8.com homepa
 # Mindy-Hoang-Resume
 # Mindy-Hoang-s-Fashion-Resume
 # Mindy-Hoang-s-Fashion-Resume
+# Mindy-Hoang-s-Fashion-Resume git init git add README.md git commit -m first commit git branch -M main git remote add origin https://github.com/MindyHoangg/Mindy-Hoang-s-Fashion-Resume.git git push -u origin main
+# Mindy-Hoang-s-Fashion-Resume
